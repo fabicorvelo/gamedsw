@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fabicorvelo/gamedsw/static/css/main.7890320a.css",
+    "main.js": "/fabicorvelo/gamedsw/static/js/main.7803bbdc.js",
+    "static/js/787.dabf2ad3.chunk.js": "/fabicorvelo/gamedsw/static/js/787.dabf2ad3.chunk.js",
+    "index.html": "/fabicorvelo/gamedsw/index.html",
+    "main.7890320a.css.map": "/fabicorvelo/gamedsw/static/css/main.7890320a.css.map",
+    "main.7803bbdc.js.map": "/fabicorvelo/gamedsw/static/js/main.7803bbdc.js.map",
+    "787.dabf2ad3.chunk.js.map": "/fabicorvelo/gamedsw/static/js/787.dabf2ad3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7890320a.css",
+    "static/js/main.7803bbdc.js"
+  ]
+}
